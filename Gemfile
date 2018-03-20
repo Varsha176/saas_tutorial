@@ -30,6 +30,9 @@ gem 'jbuilder', '2.5.0'
 # gem 'capistrano-rails', group: :development
 #Use Twitter Bootstarp library for Frontend Layout
 gem 'bootstrap-sass', '3.3.7'
+
+#Use Font awesome library for logo
+gem 'font-awesome-sass', '4.7.0'
 group :development, :test do
   # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
